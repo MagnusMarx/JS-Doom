@@ -255,7 +255,7 @@ function(a,b){jQuery.fn[b]=function(d){return d?this.bind(b,d):this.trigger(b)}}
       this.wrapper.append(this.canvas);
       this.wrapper.append(this.loader);
       this.wrapper.append(this.overlay);
-      this.overlay.append($('<div class="dosbox-powered">Ported to HTML 5 By: ').append($('<a href="https://github.com/MagnusMarx/Doom-Doom2-Heretic-Hexen-Plutonia-TNT-Wolf3D-in-HTML">Magnus Marx')));
+      this.overlay.append($('<div class="dosbox-powered">Ported to HTML 5 By: ').append($('<a href="https://github.com/MagnusMarx/JS-Doom">Magnus Marx')));
       this.overlay.append(this.start);
     }
 
