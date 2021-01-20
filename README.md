@@ -7,7 +7,7 @@ aight so this isn't supposed to work right as you download it.
 
 PREP-ING ZIP FOLDER:
 
-================================================================================================
+============================================================================================
 
 You need to get the .zip dos roms for these games.
 once you get the roms, make sure the files are not in a folder
@@ -17,11 +17,11 @@ if you have the file structure, good for you, place the .zip archive into the co
 so "doom.zip" should go in the doom folder
 "doom2.zip" goes into the doom 2 folder
 
-================================================================================================
+============================================================================================
 
 SETTING UP THE GAME:
 
-================================================================================================
+============================================================================================
 
 HAVE NOTEPAD++ READY
 
@@ -37,11 +37,11 @@ make sure that the .exe file in your archive is named exactly DOOM.EXE or whatev
 
 to make this easy for you, here is what all the games exe files should be names
 
-================================================================================================
+============================================================================================
 
 FILE EXTENSIONS:
 
-================================================================================================
+============================================================================================
 
 doom should be DOOM.EXE
 doom 2 should be DOOM2.EXE
@@ -51,24 +51,24 @@ plutonia should be DOOM2.EXE
 TNT should be DOOM2.EXE
 wolf3d should be WOLF3D.EXE
 
-================================================================================================
+============================================================================================
 
 
 IF YOU ARE LAZY AND DON'T WANNA GET A COPY OF THE GAME:
 
-================================================================================================
+============================================================================================
 
 notice how i left out strife, ill get to that later
 
 on line 31, there should be a link that goes to a zip file. IF YOU WANT, go ahead and download those zip files
 there wont be any virus and if there is, i dont know what to tell you
 
-================================================================================================
+============================================================================================
 
 
 RUNNING STRIFE:
 
-================================================================================================
+============================================================================================
 
 k now we have strife
 do not download the link in the strife index folder,
@@ -78,24 +78,24 @@ so, get yourself a good copy of strife and prep the zip file like I told you how
 
 the name for strife should be STRIFE1.EXE
 
-================================================================================================
+============================================================================================
 
 RUNNING THE GAMES:
 
-================================================================================================
+============================================================================================
 
 click on the index.html file that isn't in any specific folder
 click the button to the game you want to play, and there you go
 have fun playing doom, doom 2, heretic, hexen, plutonia, tnt, strife, and wolf3D in JS/HTML5
 
-================================================================================================
+============================================================================================
 
 
 just so you know, this was made by a 15 year old. so HAH, take that.
 
 idk how that was supposed to make you feel bad, but it somehow did
 
-================================================================================================
+============================================================================================
 
 
 
