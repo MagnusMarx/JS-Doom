@@ -6,7 +6,6 @@ Doom, Doom 2: Hell on Earth, Plutonia, TNT, Heretic, Hexen: Beyond Heretic, Stri
 
 
 
-aight so this isn't supposed to work right as you download it. but it might.
 
 
 TO PLAY WITHOUT INTERNET ACESS:
@@ -103,6 +102,13 @@ have fun playing doom, doom 2, heretic, hexen, plutonia, tnt, strife, and wolf3D
 just so you know, this was made by a 15 year old. so HAH, take that.
 
 idk how that was supposed to make you feel bad, but it somehow did
+
+i dont give two craps about what you do with this, just don't ruin the fun for everyone and report this
+for piracy. I didn't make these games, all credit goes to ID Software. I own physical copies of the game.
+DO NOT SELL THIS "PORT" OF THE GAME AS YOUR OWN. I MADE THIS! 
+Other than that, do whatever the hell you want with this I really don't care. 
+But, Please, don't report this project.
+Don't be "that guy" and ruin the fun for everyone
 
 ============================================================================================
 
